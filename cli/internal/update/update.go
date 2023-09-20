@@ -18,7 +18,7 @@ import (
 	"github.com/tywil04/slavartdl/common"
 )
 
-const Version = "v1.1.11"
+const Version = "v1.1.14"
 
 const assetNameTemplate = "slavartdl-%s-%s-%s.%s"
 const signatureNameTemplate = "slavartdl-%s-%s-%s.%s.md5"
